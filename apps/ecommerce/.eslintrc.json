@@ -17,7 +17,7 @@
           "error",
           {
             "type": "element",
-            "prefix": "angular-monorepo-nx",
+            "prefix": "ecommerce",
             "style": "kebab-case"
           }
         ]
